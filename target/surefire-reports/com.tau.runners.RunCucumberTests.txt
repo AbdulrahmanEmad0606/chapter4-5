@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.tau.runners.RunCucumberTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.005 s <<< FAILURE! - in com.tau.runners.RunCucumberTests
+initializationError(com.tau.runners.RunCucumberTests)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.IllegalArgumentException: baseDir must exist: C:\Users\emada\eclipse-workspace\tau-cucumber-course-ch4\src\test\resources\login4.feature
+
